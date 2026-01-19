@@ -1,3 +1,5 @@
+**Status:** ✅ Completed
+
 # 🔍 Repository Scout
 
 A **Python + Streamlit** application that searches, clones, and analyses GitHub repositories to extract meaningful insights about codebases.  
